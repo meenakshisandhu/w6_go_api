@@ -16,10 +16,10 @@ import (
 
 // Twitter API credentials
 const (
-	consumerKey    = "y637UcBBs3n72Tjqi1FfLB9Sj"                          // Replace with your API Key
-	consumerSecret = "qaJV49WiobXZserefm9D19CkU8k4a3sqnkB6KZUygJkM47yJAi" // Replace with your API Secret Key
-	accessToken    = "1844361760465137670-83omxPf1ZWw6TCrSS0Uk1db4LqSwXa" // Replace with your Access Token
-	accessSecret   = "L363aCUsAixlSlnjfDfJE9ZKPH7lQ6ilW1IPzdfRnYoin"      // Replace with your Access Token Secret
+	consumerKey    = "***********"                          // Replace with your API Key
+	consumerSecret = "***********" // Replace with your API Secret Key
+	accessToken    = "***********" // Replace with your Access Token
+	accessSecret   = "***********"      // Replace with your Access Token Secret
 )
 
 func main() {
