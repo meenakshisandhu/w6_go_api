@@ -1,4 +1,4 @@
-# Bonus Assignment: Working with External APIs (Twitter API)
+# Working with External APIs (Twitter API)
 
 # Objective : 
  * Understand how to authenticate with the Twitter API using OAuth.
@@ -8,8 +8,5 @@
  * Gain experience working with external APIs and handling API responses.
 
 
-# Tweeted Post on Twitter:
-
-
-
-# Post Deleted from Twitter:
+## Result : Tweet Post & Deleted:
+![Testing](https://github.com/meenakshisandhu/w6_go_api/blob/master/images/Twitter%20API-testing.png)
