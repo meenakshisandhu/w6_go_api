@@ -10,3 +10,6 @@
 
 ## Result : Tweet Post & Deleted:
 ![Testing](https://github.com/meenakshisandhu/w6_go_api/blob/master/images/Twitter%20API-testing.png)
+
+## Result : Tweet on Twitter:
+![Tweet on Twitter](https://github.com/meenakshisandhu/w6_go_api/blob/master/images/Screenshot%202024-10-10%20155852.png)
